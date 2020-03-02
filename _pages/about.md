@@ -3,7 +3,7 @@ layout: page
 title: about
 permalink: /about/
 ---
-#About me  
+# About me  
 ***
 我是 Mivansaka，一般朋友会喊我为 Mivan、米丸。 目前正在英国学习，主攻的专业是 Mechanical Engineering Design。
 会 Autodesk 公司的小部分软件、Solidworks、Matlab 以及入门中的 Abaqus。
