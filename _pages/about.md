@@ -17,7 +17,9 @@ I have seen **the golden years** of Chinese Internet and really miss them. That 
 
 你还能在这些社交媒体找到我：
 - Twitter: [@Mivansaka](https://twitter.com/MGinTonic "@Mivansaka")
-- Instagram: [@Mivansaka](https://www.instagram.com/mivansaka/ "@Mivansaka")  
+- Instagram: [@Mivansaka](https://www.instagram.com/mivansaka/ "@Mivansaka")   
+
+或是使用通讯工具 Telegram 直接给我发送消息：@Mivansaka
 
 **你别怕我**  
 
