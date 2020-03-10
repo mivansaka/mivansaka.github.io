@@ -9,7 +9,7 @@ permalink: /about/
 会 Autodesk 公司的小部分软件、Solidworks、Matlab 以及入门中的 Abaqus。
 无数的人都问我为什么不去当程序员，但我知道自己不是那块料。  
 
-电影、音乐都是杂食性喜好，什么都听什么都看，来者不拒。这是我的 [Apple Music](https://music.apple.com/profile/mmivan "Apple Music") 账号，欢迎关注。
+电影、音乐都是杂食性喜好，什么都听什么都看，来者不拒。这是我的 [Apple Music](https://music.apple.com/profile/mmivan "Apple Music") 和[豆瓣](https://www.douban.com/people/88970669/ "豆瓣")账号，欢迎关注。
 
 
 I have seen **the golden years** of Chinese Internet and really miss them. That is why i want to have this Blog to recall the memory.
