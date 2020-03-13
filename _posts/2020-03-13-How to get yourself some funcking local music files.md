@@ -26,7 +26,7 @@ date:   2020-03-12 22:19:09
 
 这次我选择使用艺术家+标题名的方式进行检索：  
 
-![local_5.png](https://i.loli.net/2020/03/14/qxln5Y1jTk9hSAt.png)
+![local_5.png](https://i.loli.net/2020/03/14/npuY2SrUWKLNBaz.png)
 
 输入所需信息后会得到一个没有结果的提示：  
 
