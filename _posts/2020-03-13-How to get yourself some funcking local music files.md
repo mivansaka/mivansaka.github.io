@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "How to get yourself some funcking local music files---Music Tag"
+title:  "How to get yourself some fucking local music files---Music Tag"
 date:   2020-03-12 22:19:09
 ---
-## How to get yourself some funcking local music files---Music Tag
+## How to get yourself some fucking local music files---Music Tag
 
 最近被 Apple Music 对一些专辑和单曲的下架搞得十分恼火，有些在 Spotify 也逃不过下架的命运，未曾想过一直在日区和英区生活的数字移民也能有这般待遇。刚巧今天拿到了李志在日本发行的精选专辑的电子版，再加上先前顾老师把 My little airport 的全部歌曲打包给了我，就想着电脑本地存一份备份这件事不能再拖下去了，在软件选用和使用上绕了一大圈以后终于摸清了点逻辑，希望这篇文章能给你的本地化文件有些启发。
 
@@ -64,8 +64,8 @@ date:   2020-03-12 22:19:09
 
 文件重命名的格式使用 %——% 的形式来代表每一项目例如 [%artist% - %album% - %title%] 显示顺序为 [歌手 - 专辑名 - 歌名]，通过更改 %——% 的顺序来显示我们需要的文件名的显示形式。同样支持批量修改，意味着你可以在修改完所有的文件的 Music Tag 以后全选，按照同一种格式进行文件名的输出。
 
-至此 How to get yourself some funcking local music files---Music Tag 的部分到这里就结束了，本文只介绍 [MP3TAG] 这款软件的基础操作和一些可能会遇到的问题，更多绝妙的操作可以在使用中慢慢体会。在现在流量无限的时代，流媒体很快很便捷，但是听歌的人是你自己，一旦碰上审查或是没有来由的下架，流媒体此时就毫无反手之力，网络年代也要有 CD 架子分门别类收藏的精神，Please get yourself some local music files，反正这个过程我是被各种奇奇怪怪的问题 fuck 了一遍又一遍，希望其他人能少走点弯路。
+至此 How to get yourself some fucking local music files---Music Tag 的部分到这里就结束了，本文只介绍 [MP3TAG] 这款软件的基础操作和一些可能会遇到的问题，更多绝妙的操作可以在使用中慢慢体会。在现在流量无限的时代，流媒体很快很便捷，但是听歌的人是你自己，一旦碰上审查或是没有来由的下架，流媒体此时就毫无反手之力，网络年代也要有 CD 架子分门别类收藏的精神，Please get yourself some local music files，反正这个过程我是被各种奇奇怪怪的问题 fuck 了一遍又一遍，希望其他人能少走点弯路。
 
-如果有时间的话，，How to get yourself some funcking local music files 下一期应该是写的本地音乐管理的问题，目前我依旧在熟悉使用 Music Bee 作为我的管理和播放器，体验很好，最后贴一张截图作为结尾了。
+如果有时间的话，，How to get yourself some fucking local music files 下一期应该是写的本地音乐管理的问题，目前我依旧在熟悉使用 Music Bee 作为我的管理和播放器，体验很好，最后贴一张截图作为结尾了。
 
 ![local_14.png](https://i.loli.net/2020/03/14/KyeUQBoFAgfJtbw.png)
