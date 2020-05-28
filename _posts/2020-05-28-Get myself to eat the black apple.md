@@ -1,6 +1,8 @@
-## layout: post
-
-title: "Get myself to eat the black apple" date: 2020-05-28 11:43:09
+---
+layout: post
+title:  "Get myself to eat the black apple"
+date:   2020-05-28 13:13:09
+---
 
 ## Get myself to eat the black apple
 
