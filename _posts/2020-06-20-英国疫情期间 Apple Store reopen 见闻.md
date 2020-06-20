@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "英国疫情期间 Apple Store Reopen 见闻"
+title:  "英国疫情期间 Apple Store reopen 见闻"
 date:   2020-06-20 21:17:09
 ---
 ## 英国疫情期间 Apple Store reopen 见闻
