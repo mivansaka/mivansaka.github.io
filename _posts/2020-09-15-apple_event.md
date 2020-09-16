@@ -212,7 +212,7 @@ date:   2020-09-16 06:13:09
 台：更多精彩，請繼續。  
 日：できることは、ほかにもたくさん。 
 
-  
+
 **iPad 2020**  
 *因为本次宣传页面文字均为手写文字图片，本人日语输入不足，无法键入大量日文，因此本节日文文本缺失*  
 英: Delightfully capable. Surprisingly affordable.  
@@ -231,56 +231,67 @@ date:   2020-09-16 06:13:09
 中：尽情写，写过瘾。  
 港：盡情寫個夠。   
 台：寫個痛快   
+日：好きなだけ　筆を走らせよう
 
 英: Learn your lesson the fun way.  
 中：学，有好玩的学法。  
 港：學習，可以好好玩。  
 台：學習，也可以很有趣。  
+日：遊ぶように　学ぼう
 
 英: Live your best extra life.  
 中：闯关升级，活出精彩。  
 港：又過一關，又一次重生。  
 台：關關續命，過得精彩。   
-  
+日：ゲームの楽しさをレベルアップしよう
+
 英: Draw sonething drawsome.  
 中：动笔画，随你出神入化。  
 港：塗塗畫畫，出神入化。  
 台：隨手畫，就很酷。  
+日：思い描いたものを　思いのままに描こう
 
 英: Shoot from the hip. Edit with your finger.  
 中：随手拍的，点点手指就编辑。  
 港：拍片，剪片，任你輕鬆指點。  
 台：輕鬆拍片，隨手剪輯。  
+日：カメラを回そう　カットをつなごう　指先だけで
 
 英: Your home theater. Home optional.  
 中：你的家庭影院，随时为你上映。  
 港：你的私人影院，總在身旁。  
 台：你的私人影院，總在身旁。  
+日：映画館を持ち歩こう
 
 英: Take your to-do list to go.  
 中：代办事项，路上就能办。  
 港：代辦清單，一路辦妥。  
-台：代辦事項，邊走邊做。  
+台：代辦事項，邊走邊做。 
+日：やりたいことをやりたい場所でやろう
 
 英: iPadOS does even More.  
 中：iPadOS 越来越能干。  
 港：iPadOS 做到更加多。  
 台：iPadOS 能做的，多更多。  
+日：iPadOSで、できることを広げよう
 
 英: apps for everything.  
 中：万事有 app。  
 港：事事都有 app 做到。  
 台：萬事都有 app。  
+日：アプリで、なんでも。
 
 英: Privacy builtin.  
 中：隐私保护，与生俱来。  
 港：內置私隱保障。  
 台：內建隱私保護功能。  
+日：プライバシー機能を内蔵
 
 英: Designed for everyone  
 中：为每一个人而设计。  
-港：爲每個人而設計。  
-台：爲每個人而設計。    
+港：為每個人而設計。  
+台：為每個人而設計。    
+日：誰もが使いやすい設計
 
 **iPad Air**  
 英: An all-screen design with a stunning 10.9‑inch Liquid Retina display  
