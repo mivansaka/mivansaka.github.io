@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to get yourself a cheap homekit device"
-date:   2020-10-14 06:13:09
+date:   2021-01-30 22:21:09
 ---
 ## How to get yourself a cheap homekit device 
 
