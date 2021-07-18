@@ -11,7 +11,7 @@ date:   2021-07-18 10:21:09
 英: In touch.In the moment.   
 中：更有聊，更专注。  
 港：更好傾，更好專注。  
-台：保持聯繫，保持專注。
+台：保持聯繫，保持專注。  
 日：もっと一緒に。もっと夢中に。  
 
 英: New experiences.True connections.  
